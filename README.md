@@ -4,4 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/ef36e9eb-02cb-4252-9db1-252b0aff40c5)
 ![image](https://github.com/user-attachments/assets/7402caa1-10e0-4980-968c-39fecbed7482)
-# Доска : 
+
+-- 
+# Диаграмм
+![image](https://github.com/user-attachments/assets/62d0d933-66f9-43f8-a110-8a3a7ba6ef52)
