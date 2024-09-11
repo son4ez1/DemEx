@@ -9,4 +9,5 @@
 # Диаграмма
 ![image](https://github.com/user-attachments/assets/62d0d933-66f9-43f8-a110-8a3a7ba6ef52)
 
+# Dbeaver
 ![image](https://github.com/user-attachments/assets/63d3659d-8913-4ab9-98b2-49f319480b9c)
