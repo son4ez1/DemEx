@@ -12,3 +12,6 @@
 
 # Dbeaver
 ![image](https://github.com/user-attachments/assets/63d3659d-8913-4ab9-98b2-49f319480b9c)
+
+# Диаграмма Питер
+![image](https://github.com/user-attachments/assets/f6d1dafa-f5fc-438d-afc9-2a30efe34cc2)
