@@ -1,5 +1,6 @@
 # [ДэмЭкз](https://bom.firpo.ru/Public/86) - стр.25 пример задания
 # [Доска Экз](https://ru.yougile.com/board/pvrh6dwxpcwc)
+# [Приложения ](https://drive.google.com/file/d/1jhHiyaoVYixbTPAexhe7XI_cbEXA2phB/view?usp=sharing)
 ![image](https://github.com/user-attachments/assets/38324075-d5eb-4df9-bc35-68a218624077)
 
 ![image](https://github.com/user-attachments/assets/ef36e9eb-02cb-4252-9db1-252b0aff40c5)
