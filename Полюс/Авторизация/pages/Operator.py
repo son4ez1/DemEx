@@ -60,26 +60,3 @@ users usr on r.clientID = usr.IDuser;
 
         conn.commit() #сохраняет в подключении запросы
         conn.close() # закрывает подключение
-
-'''''
-    SELECT 
-r.IDrequest as "номер заявки",
-r.startDate as "дата начала",
-ott.orgTechType as "тип организациии",
-r.orgTechModel as "модель",
-r.problemDescryption as "проблема",
-rs.requestStatus as "статус заявки",
-r.completionDate as "дата окончания",
-r.repairParts as "детали для ремонта",
-us.fio as "мастер",
-usr.fio as "клиент"
-FROM requests r 
-LEFT JOIN 
-orgTechTypes ott on r.orgTechTypeID = ott.IDorgTechType
-left join 
-requestStatuses rs on r.requestStatusID = rs.IDrequestStatus
-left join 
-users us on r.masterID = us.IDuser
-left join
-users usr on r.clientID = usr.IDuser;
-'''''
